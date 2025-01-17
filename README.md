@@ -26,9 +26,7 @@ Here's a walkthrough of implemented features:
 ![Screen Recording 2025-01-16 at 10 23 03 PM](https://github.com/user-attachments/assets/1a3ab963-6a79-4b27-bc33-8dd16663c3d5)
 
 
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
-<!-- Recommended tools:
+GIF created with:
 [Gifski](https://gif.ski/) for macOS
 
 ## Notes
